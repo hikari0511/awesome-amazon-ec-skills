@@ -1,0 +1,98 @@
+name: 推荐新 Skill
+description: 推荐一个值得收录的跨境电商 Claude / AI Agent Skill
+title: "[新 Skill 推荐] "
+labels: ["new-skill", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢推荐！本仓库聚焦"跨境出海电商 + 供货上游"场景。
+        国内销售平台（小红书/抖音/微信/视频号/淘宝/京东/拼多多）暂不收录。
+        如果你有时间，欢迎直接提 PR；否则填本表单，维护者会评估。
+
+  - type: input
+    id: name
+    attributes:
+      label: Skill 名称
+      placeholder: amazon-listing-creator
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: GitHub URL
+      placeholder: https://github.com/xxx/amazon-listing-creator
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: 作者 GitHub handle
+      placeholder: "@username"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: 拟归入哪个一级分类
+      options:
+        - 🔍 选品调研
+        - 📝 Listing 与内容
+        - 📸 视觉与素材
+        - 📊 数据分析与 BI
+        - 🎯 广告与流量
+        - ⭐ 评论与口碑
+        - 💬 客服与售后
+        - 📦 订单与物流
+        - 💰 财务与合规
+        - 🤝 团队协作与 SOP
+        - 🧰 平台运维
+        - 🛠️ 通用底座
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: platforms
+    attributes:
+      label: 适用平台（≥1）
+      options:
+        - label: 🅰️ Amazon
+        - label: 🅡 Rakuten
+        - label: 🛍️ Shopify
+        - label: 🎵 TikTok Shop
+        - label: 🟢 Temu
+        - label: 👗 SHEIN
+        - label: 🏪 其他第三方（eBay/Walmart/Lazada/Shopee）
+        - label: 🌐 独立站
+        - label: 🛒 1688/Alibaba
+        - label: 🪶 飞书
+        - label: 🟦 通用
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: 真实电商使用案例
+      description: 一段话描述你在跨境电商业务中具体怎么用这个 skill
+      placeholder: "我用这个 skill 在 5 分钟内生成了一个日亚母婴类目 listing..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 收录前自检
+      description: 请逐项确认
+      options:
+        - label: 仓库 public 且 license 兼容（CC0/MIT/Apache/BSD）
+          required: true
+        - label: 含 SKILL.md / plugin.json / mcp.json / manifest.json 之一
+          required: true
+        - label: README ≥ 200 字（含安装+用法+示例）
+          required: true
+        - label: 近 6 个月内有 commit 或 release
+          required: true
+        - label: 不属于"国内销售平台 skill"
+          required: true

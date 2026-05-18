@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Node (for future awesome-lint / link-check)
+node_modules/
+package-lock.json
+
+# Env
+.env
+.env.local
+
+# Logs
+*.log
