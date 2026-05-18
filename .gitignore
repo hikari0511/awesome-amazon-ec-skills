@@ -20,3 +20,6 @@ package-lock.json
 
 # Logs
 *.log
+ 
+# Ignore generated ChatGPT image
+ChatGPT Image 2026年5月18日 16_17_33.png
