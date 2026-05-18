@@ -93,18 +93,18 @@ client.messages.create(
 
 | 业务流程 \ 平台 | 🅰️ Amazon | 🅡 Rakuten | 🛍️ Shopify | 🎵 TikTok | 🟢 Temu/👗 SHEIN | 🌐 独立站 | 🛒 1688 | 🪶 飞书 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [🔍 选品调研](#product-research) | — | — | — | — | — | — | — | — |
-| [📝 Listing 与内容](#listing-content) | — | — | — | — | — | — | — | — |
-| [📸 视觉与素材](#creative-visual) | — | — | — | — | — | — | — | — |
-| [📊 数据分析与 BI](#analytics-bi) | — | — | — | — | — | — | — | — |
-| [🎯 广告与流量](#ads-traffic) | — | — | — | — | — | — | — | — |
-| [⭐ 评论与口碑](#reviews-reputation) | — | — | — | — | — | — | — | — |
+| [🔍 选品调研](#product-research) | ✓ | — | — | — | — | — | — | — |
+| [📝 Listing 与内容](#listing-content) | — | — | ✓ | — | — | ✓ | — | — |
+| [📸 视觉与素材](#creative-visual) | ✓ | — | — | — | — | — | — | — |
+| [📊 数据分析与 BI](#analytics-bi) | ✓ | — | — | — | — | — | — | — |
+| [🎯 广告与流量](#ads-traffic) | — | — | — | — | — | ✓ | — | — |
+| [⭐ 评论与口碑](#reviews-reputation) | ✓ | — | — | — | — | — | — | — |
 | [💬 客服与售后](#customer-service) | — | — | — | — | — | — | — | — |
 | [📦 订单与物流](#orders-fulfillment) | — | — | — | — | — | — | — | — |
-| [💰 财务与合规](#finance-compliance) | — | — | — | — | — | — | — | — |
-| [🤝 团队协作与 SOP](#collaboration-sop) | — | — | — | — | — | — | — | — |
-| [🧰 平台运维](#platform-ops) | — | — | — | — | — | — | — | — |
-| [🛠️ 通用底座](#general-foundation) | — | — | — | — | — | — | — | — |
+| [💰 财务与合规](#finance-compliance) | — | — | — | — | — | ✓ | — | — |
+| [🤝 团队协作与 SOP](#collaboration-sop) | — | — | — | — | — | ✓ | — | — |
+| [🧰 平台运维](#platform-ops) | — | — | ✓ | — | — | — | — | — |
+| [🛠️ 通用底座](#general-foundation) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 > **平台 emoji 完整说明**：`🅰️ Amazon` / `🅡 Rakuten Ichiba` / `🛍️ Shopify` / `🎵 TikTok Shop` / `🟢 Temu` / `👗 SHEIN` / `🏪 其他第三方（eBay/Walmart/Lazada/Shopee）` / `🌐 独立站（WooCommerce/Magento/自建）` / `🛒 1688/Alibaba/Made-in-China` / `🪶 飞书生态` / `🟦 通用`
 >
@@ -120,73 +120,97 @@ client.messages.create(
 
 > 找品、判断市场容量、需求挖掘、竞品分析、供应链匹配。
 
-_暂无收录，欢迎贡献 — 参考 [SKILLS_TEMPLATE.md](./SKILLS_TEMPLATE.md)。_
+#### 🅰️ Amazon
+* [APIClaw-Skills](https://github.com/SerendipityOneInc/APIClaw-Skills) - 亚马逊选品/竞品/趋势/Listing 体检 10 件套 🅰️ 🇨🇳 💎 _By [@SerendipityOneInc](https://github.com/SerendipityOneInc)_
 
 ### <a id="listing-content"></a>📝 2. Listing 与内容 / Listing & Content
 
 > 标题、五点、A+、品牌故事、SEO 文案、多语言翻译。
 
-_暂无收录，欢迎贡献。_
+#### 🛍️ Shopify
+* [hydrogen-ecommerce-ux](https://github.com/hmtkyn/hydrogen-ecommerce-ux) - Shopify Hydrogen 店铺基于 Baymard UX 研究的 Skill 🛍️ 🆓 _By [@hmtkyn](https://github.com/hmtkyn)_
+
+#### 🌐 独立站
+* [ecommerce-email-sequences](https://github.com/charlieai-co/ecommerce-email-sequences) - 电商邮件序列 SOP（欢迎/弃购/复购/挽回）🌐 🆓 _By [@charlieai-co](https://github.com/charlieai-co)_
 
 ### <a id="creative-visual"></a>📸 3. 视觉与素材 / Creative & Visual
 
 > 主图、详情图、A+ 模块图、短视频脚本、品牌 banner。
 
-_暂无收录，欢迎贡献。_
+#### 🅰️ Amazon
+* [kindle-cover-skill](https://github.com/nikmcfly/kindle-cover-skill) - Amazon KDP 平装书封面 PDF 生成（书脊+出血+安全区）🅰️ 🆓 _By [@nikmcfly](https://github.com/nikmcfly)_
 
 ### <a id="analytics-bi"></a>📊 4. 数据分析与 BI / Analytics & BI
 
 > 销售、库存、Session、CVR、ACOS、利润看板与周报。
 
-_暂无收录，欢迎贡献。_
+#### 🅰️ Amazon
+* [amazon-sp-mcp](https://github.com/mansournorouzi/amazon-sp-mcp) - Amazon SP-API MCP，仅需 LWA OAuth 免 AWS IAM 🅰️ 🆓 _By [@mansournorouzi](https://github.com/mansournorouzi)_
 
 ### <a id="ads-traffic"></a>🎯 5. 广告与流量 / Ads & Traffic
 
 > SP / SB / SD / DSP / 红人 / affiliate / 站外 deal / Google Shopping。
 
-_暂无收录，欢迎贡献。_
+#### 🌐 独立站
+* [mcp-gsc](https://github.com/AminForou/mcp-gsc) - Google Search Console MCP + 4 个 SEO Skill（周报、索引审计）🌐 🆓 ⭐ _By [@AminForou](https://github.com/AminForou)_
+* [Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) - 16 子 Skill + 10 Agent 的全栈 SEO 审计套件 🌐 🆓 ⭐ _By [@Bhanunamikaze](https://github.com/Bhanunamikaze)_
+* [search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp) - GSC + Bing Webmaster + GA4 三合一 SEO MCP 🌐 🆓 _By [@saurabhsharma2u](https://github.com/saurabhsharma2u)_
+* [markifact-mcp](https://github.com/markifact/markifact-mcp) - 统一 300+ 操作，含 Google/Meta/TikTok 广告 + Klaviyo 🌐 💎 _By [@markifact](https://github.com/markifact)_
+* [konquest-meta-ads-mcp](https://github.com/brandu-mos/konquest-meta-ads-mcp) - 57 工具的 Meta Ads MCP（含商品目录/DPA）🌐 💎 _By [@brandu-mos](https://github.com/brandu-mos)_
 
 ### <a id="reviews-reputation"></a>⭐ 6. 评论与口碑 / Reviews & Reputation
 
 > 抓评、差评分析、合规索评、QA 起草、品牌舆情监控。
 
-_暂无收录，欢迎贡献。_
+#### 🅰️ Amazon
+* [voc-amazon-reviews](https://github.com/mguozhen/voc-amazon-reviews) - 亚马逊 10 站点评论 VOC 分析 MCP，输出中英双语建议 🅰️ 🇨🇳 💎 _By [@mguozhen](https://github.com/mguozhen)_
 
 ### <a id="customer-service"></a>💬 7. 客服与售后 / Customer Service
 
 > 邮件、站内信、退款、A-to-Z 申诉、纠纷处理、多语言客服。
 
-_暂无收录，欢迎贡献。_
+_暂无合格收录。**此分类目前开源生态稀缺**——欢迎贡献：Amazon Buyer Message / Rakuten R-Mail / Shopify Customer Service 等场景。_
 
 ### <a id="orders-fulfillment"></a>📦 8. 订单与物流 / Orders & Fulfillment
 
 > FBA、海外仓、头程、FNSKU 标签、tracking 监控、多渠道库存。
 
-_暂无收录，欢迎贡献。_
+_暂无合格收录。**此分类目前开源生态稀缺**——欢迎贡献：4PX / 燕文 / 递四方 / 出海尾程（UPS/USPS/DPD）API 包装、FBA 货件助手等。_
 
 ### <a id="finance-compliance"></a>💰 9. 财务与合规 / Finance & Compliance
 
 > 利润核算、汇率、VAT、EPR、payout 对账、品牌注册、商品合规。
 
-_暂无收录，欢迎贡献。_
+#### 🌐 独立站
+* [agent-toolkit](https://github.com/stripe/agent-toolkit) - Stripe 官方 Agent Toolkit + 远程/本地 MCP Server 🌐 🆓 ⭐ _By [@stripe](https://github.com/stripe)_
 
 ### <a id="collaboration-sop"></a>🤝 10. 团队协作与 SOP / Collaboration & SOP
 
 > 飞书 / 钉钉 / Notion、周会纪要、新人 SOP、跨时区 standup、OKR。
 
-_暂无收录，欢迎贡献。_
+#### 🌐 独立站 / 通用协作
+* [mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) - Google Sheets MCP，19 个工具（含图表生成）🌐 🆓 ⭐ _By [@xing5](https://github.com/xing5)_
 
 ### <a id="platform-ops"></a>🧰 11. 平台运维 / Platform Operations
 
 > 账号健康、二审、视频验证、Section 3 申诉、多账号关联自查。
 
-_暂无收录，欢迎贡献。_
+#### 🛍️ Shopify
+* [shopify-mcp](https://github.com/GeLi2001/shopify-mcp) - Shopify GraphQL Admin API MCP，31 个工具 🛍️ 🆓 _By [@GeLi2001](https://github.com/GeLi2001)_
+
+#### 🟦 通用
+* [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - 官方 Playwright Skill，自动化检查 Listing/结账流程 🟦 🆓 🅐 _By [@anthropics](https://github.com/anthropics)_
 
 ### <a id="general-foundation"></a>🛠️ 12. 通用底座 / General Foundation
 
 > 电商场景下可二次包装的通用 skill（搜索、研究、文档、表格、PPT、可视化、爬虫等）。
 
-_暂无收录，欢迎贡献。_
+#### 🟦 通用
+* [firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - Firecrawl 官方 MCP，scrape / crawl / extract / search 全栈 🟦 💎 ⭐ _By [@firecrawl](https://github.com/firecrawl)_
+* [brightdata-mcp](https://github.com/luminati-io/brightdata-mcp) - Bright Data MCP，60+ 站点结构化抓取 + 浏览器自动化 🟦 💎 ⭐ _By [@luminati-io](https://github.com/luminati-io)_
+* [tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Tavily 网搜 MCP，含 search / extract / crawl / map 🟦 💎 ⭐ _By [@tavily-ai](https://github.com/tavily-ai)_
+* [actors-mcp-server](https://github.com/apify/actors-mcp-server) - Apify Actor 商店 MCP，动态调用 5000+ 爬虫 🟦 💎 ⭐ _By [@apify](https://github.com/apify)_
+* [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Anthropic 官方 Skill 创建器，输出规范 SKILL.md 🟦 🆓 🅐 _By [@anthropics](https://github.com/anthropics)_
 
 ---
 
@@ -194,7 +218,7 @@ _暂无收录，欢迎贡献。_
 
 ### 新手路径
 1. 读官方 [Skills 文档](https://docs.claude.com/en/docs/claude-code/skills) 了解概念
-2. 从「🛠️ 通用底座」分类挑 1 个 skill 装上跑一遍（如 anthropics/skills 的 `xlsx`）
+2. 从「🛠️ 通用底座」分类挑 1 个 skill 装上跑一遍（推荐 [`skill-creator`](https://github.com/anthropics/skills/tree/main/skills/skill-creator) 或 [`tavily-mcp`](https://github.com/tavily-ai/tavily-mcp)）
 3. 再按你主营平台从对应分类挑 skill
 
 ### 进阶路径
