@@ -11,24 +11,16 @@
 - **Skill 名称**：
 - **GitHub URL**：
 - **作者 GitHub handle**：`@`
-- **拟归入哪个一级分类**（12 选 1）：
+- **拟归入哪个一级分类**（9 选 1）：
   - [ ] 🔍 选品调研
+  - [ ] ⚔️ 竞品分析
   - [ ] 📝 Listing 与内容
   - [ ] 📸 视觉与素材
   - [ ] 📊 数据分析与 BI
   - [ ] 🎯 广告与流量
   - [ ] ⭐ 评论与口碑
   - [ ] 💬 客服与售后
-  - [ ] 📦 订单与物流
-  - [ ] 💰 财务与合规
-  - [ ] 🤝 团队协作与 SOP
-  - [ ] 🧰 平台运维
   - [ ] 🛠️ 通用底座
-- **适用标签**（≥1，可多选）：
-  - [ ] 🅰️ Amazon
-  - [ ] 🛒 1688 / Alibaba / Made-in-China（供货上游）
-  - [ ] 🪶 飞书生态
-  - [ ] 🟦 通用底座（含 Amazon 场景落点）
 
 ## 真实 Amazon 使用案例（必填）
 
@@ -41,7 +33,7 @@
 
 请逐项确认（必须全部勾选才能合并）：
 
-- [ ] 仓库 public 且 license 兼容（CC0/MIT/Apache/BSD）
+- [ ] 仓库 public 且 license 兼容（CC0/MIT/Apache/BSD），或作者公开声明开源
 - [ ] 含 `SKILL.md` / `plugin.json` / `mcp.json` / `manifest.json` 之一
 - [ ] README ≥ 200 字（含安装+用法+示例）
 - [ ] **近 6 个月内有 commit 或 release**
@@ -49,7 +41,7 @@
 - [ ] 已搜索本仓库，确认无重复条目
 - [ ] 属于 Amazon 跨境出海或 1688 供货场景（不是其他出海平台 / 不是国内销售平台 / 不是 KDP）
 - [ ] bullet 行格式严格符合 [`SKILLS_TEMPLATE.md`](../SKILLS_TEMPLATE.md)
-- [ ] 已按"中文友好优先 → stars 降序"插入到正确位置
+- [ ] 已按 **stars 降序** 插入到正确位置
 
 ## 我对这个 skill 的吐槽 / 改进建议（选填）
 
