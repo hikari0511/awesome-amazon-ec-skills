@@ -1,10 +1,10 @@
-# Awesome Amazon EC Skills 亚马逊跨境电商 AI Agent Skills合集
-
 ![Logo](./logo.png)
+
+# Awesome Amazon EC Skills 亚马逊跨境电商 AI Agent Skills合集
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](./LICENSE)
 
-> 为亚马逊跨境卖家精选的 Claude Skills、Claude Code Plugins、MCP Servers 与 AI Agent。
+> 为亚马逊跨境卖家精选的 AI Agent Skills。
 > 覆盖选品 → 竞品 → Listing → 视觉 → 数据 BI → 广告 → 评论 全流程，含 1688 供货上游。
 
 > **收录范围**：聚焦 Amazon + 1688/Alibaba 供货上游。其他出海平台（Rakuten / Shopify / TikTok Shop / Temu / SHEIN 等）与国内销售平台（小红书 / 抖音 / 微信 / 视频号 / 淘宝 / 京东 / 拼多多）均不收录。
@@ -56,7 +56,7 @@ Amazon 跨境卖家的痛点：
 - **数据散在 SP-API / 各 SaaS**：Business Report / Search Term Report / Brand Analytics / ABA / 卖家精灵 / Helium10 / SIF / Sorftime 各家一摊
 - **多站点 + 多语言**：美/英/德/法/意/西/日/加/墨/澳，listing、客服、Q&A 都要本地化
 - **合规压力大**：VAT / EPR / Brand Registry / 二审 / Section 3 / Buyer-Seller Communication，一步错可能封号
-- **供应链上游零碎**：1688 找货比价、打样、贴牌、头程 SOP 全靠人记
+- **供应链上游零碎**：1688 找货比价、打样、贴牌、头程 SOP 全靠人工
 
 本仓库只收录"能在 Amazon 跨境出海场景里直接落地、被社区验证过"的 skill。
 
