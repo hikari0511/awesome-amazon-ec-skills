@@ -1,4 +1,4 @@
-# Awesome Amazon EC Skills 亚马逊跨境电商 Claude / AI Agent 技能合集
+# Awesome Amazon EC Skills 亚马逊跨境电商 AI Agent Skills合集
 
 ![Logo](./logo.png)
 
