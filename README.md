@@ -136,6 +136,7 @@ _暂无合格收录，欢迎贡献。_
 
 > 抓评、差评分析、合规索评、QA 起草、品牌舆情监控。
 
+* [review-analyzer-skill](https://github.com/buluslan/review-analyzer-skill) — AI 评论深度分析（22 维标签 + VOC 看板），跨境电商优先 🅰️🇨🇳🆓 _By [@buluslan](https://github.com/buluslan)_
 * [voc-amazon-reviews](https://github.com/mguozhen/voc-amazon-reviews) — 亚马逊 10 站点评论 VOC 分析 MCP，输出中英双语建议 🅰️🇨🇳💎 _By [@mguozhen](https://github.com/mguozhen)_
 
 ### <a id="customer-service"></a>💬 客服与售后
