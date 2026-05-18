@@ -1,20 +1,20 @@
 name: 推荐新 Skill
-description: 推荐一个值得收录的跨境电商 Claude / AI Agent Skill
+description: 推荐一个值得收录的 Amazon 跨境电商 Claude / AI Agent Skill
 title: "[新 Skill 推荐] "
 labels: ["new-skill", "needs-review"]
 body:
   - type: markdown
     attributes:
       value: |
-        感谢推荐！本仓库聚焦"跨境出海电商 + 供货上游"场景。
-        国内销售平台（小红书/抖音/微信/视频号/淘宝/京东/拼多多）暂不收录。
+        感谢推荐！本仓库聚焦"Amazon 跨境出海 + 1688 供货上游"场景。
+        其他出海平台（Rakuten / Shopify / TikTok / Temu / SHEIN 等）、国内销售平台（小红书 / 抖音 / 微信 / 淘宝 / 京东 / 拼多多）、KDP 出版相关均不收录。
         如果你有时间，欢迎直接提 PR；否则填本表单，维护者会评估。
 
   - type: input
     id: name
     attributes:
       label: Skill 名称
-      placeholder: amazon-listing-creator
+      placeholder: voc-amazon-reviews
     validations:
       required: true
 
@@ -22,7 +22,7 @@ body:
     id: url
     attributes:
       label: GitHub URL
-      placeholder: https://github.com/xxx/amazon-listing-creator
+      placeholder: https://github.com/xxx/voc-amazon-reviews
     validations:
       required: true
 
@@ -55,28 +55,21 @@ body:
       required: true
 
   - type: checkboxes
-    id: platforms
+    id: tags
     attributes:
-      label: 适用平台（≥1）
+      label: 适用标签（≥1）
       options:
         - label: 🅰️ Amazon
-        - label: 🅡 Rakuten
-        - label: 🛍️ Shopify
-        - label: 🎵 TikTok Shop
-        - label: 🟢 Temu
-        - label: 👗 SHEIN
-        - label: 🏪 其他第三方（eBay/Walmart/Lazada/Shopee）
-        - label: 🌐 独立站
-        - label: 🛒 1688/Alibaba
-        - label: 🪶 飞书
-        - label: 🟦 通用
+        - label: 🛒 1688 / Alibaba / Made-in-China（供货上游）
+        - label: 🪶 飞书生态
+        - label: 🟦 通用底座（含 Amazon 场景落点）
 
   - type: textarea
     id: use-case
     attributes:
-      label: 真实电商使用案例
-      description: 一段话描述你在跨境电商业务中具体怎么用这个 skill
-      placeholder: "我用这个 skill 在 5 分钟内生成了一个日亚母婴类目 listing..."
+      label: 真实 Amazon 使用案例
+      description: 一段话描述你在 Amazon 跨境业务中具体怎么用这个 skill
+      placeholder: "我用这个 skill 在 5 分钟内做完了一个母婴类目 ASIN 的 Listing 健康度体检..."
     validations:
       required: true
 
@@ -94,5 +87,5 @@ body:
           required: true
         - label: 近 6 个月内有 commit 或 release
           required: true
-        - label: 不属于"国内销售平台 skill"
+        - label: 属于 Amazon 跨境出海或 1688 供货场景（不是其他出海平台 / 不是国内销售平台 / 不是 KDP）
           required: true
