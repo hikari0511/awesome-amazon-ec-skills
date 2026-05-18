@@ -101,6 +101,7 @@ Amazon 跨境卖家的痛点：
 > 找品、判断市场容量、需求挖掘、竞品分析、供应链匹配。
 
 * [Amazon-ABAkeyword](https://github.com/luotwo/Amazon-ABAkeyword) — 监测 Amazon ABA 爆品关键词并出飞书仪表盘，三级预警 🅰️🪶🇨🇳🆓 _By [@luotwo](https://github.com/luotwo)_
+* [sorftime-cli](https://github.com/sorftime/sorftime-cli) — Sorftime 官方多平台数据 CLI，类目/产品/关键词查询 🅰️🇨🇳💎 _By [@sorftime](https://github.com/sorftime)_
 * [BSC-amazon-VOC-trending-products](https://github.com/luotwo/BSC-amazon-VOC-trending-products) — Amazon 选品+VOC+竞品研究一体化流水线，可发飞书 🅰️🪶🇨🇳🆓 _By [@luotwo](https://github.com/luotwo)_
 * [zach-product-research](https://github.com/zach22-1999/amazon-skills/tree/main/skills/zach-product-research) — Sorftime MCP 选品分析，交付 MD/HTML/Dashboard/Excel 四件套 🅰️🇨🇳💎 _By [@zach22-1999](https://github.com/zach22-1999)_
 * [zach-feature-demand-validator](https://github.com/zach22-1999/amazon-skills/tree/main/skills/zach-feature-demand-validator) — Review/关键词/社区三维数据验证微创新是否真实需求 🅰️🇨🇳🆓 _By [@zach22-1999](https://github.com/zach22-1999)_
