@@ -1,6 +1,6 @@
 # Awesome Amazon EC Skills 亚马逊跨境电商 Claude / AI Agent 技能合集
 
-![ChatGPT Image](./ChatGPT Image 2026年5月18日 16_17_33.png)
+![Logo](./logo.png)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](./LICENSE)
 
