@@ -29,7 +29,8 @@
 所有候选 skill 必须**同时满足**：
 
 1. **公开 GitHub 仓库**（不收 GitLab/Bitbucket/Gitee）
-2. **License 兼容**：CC0 / MIT / Apache-2.0 / BSD（不收 GPL / proprietary / noncommercial-only / 无 LICENSE 文件）
+2. **License 兼容**：CC0 / MIT / Apache-2.0 / BSD（不收 GPL / proprietary / noncommercial-only）
+   - **例外**：若仓库无正式 LICENSE 文件，但**作者在 README / Issue / 项目主页 明确声明本项目开源**，亦视为通过 license 门槛。维护者审 PR 时会复核原话引用
 3. 至少含以下文件之一：`SKILL.md` / `plugin.json` / `.mcp.json` / `mcp.json` / `manifest.json`
 4. README ≥ 200 字（含安装+用法+示例）
 5. **近 6 个月内有 commit 或 release**
