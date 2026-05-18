@@ -143,7 +143,6 @@ _暂无合格收录。**此分类目前开源生态稀缺**——欢迎贡献：
 * [BSC-Amazon-OPC-Agent-OS](https://github.com/luotwo/BSC-Amazon-OPC-Agent-OS) — BSC OPC Agent OS V2.0 — Amazon 产品运营综合 AI 工作台 🆓 _By [@luotwo](https://github.com/luotwo)_
 * [zach-seller-skill-creator](https://github.com/zach22-1999/amazon-skills/tree/main/skills/zach-seller-skill-creator) — 亚马逊卖家专用 skill 创建器，含 6 问准入闸 🆓 _By [@zach22-1999](https://github.com/zach22-1999)_
 * [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) — Anthropic 官方 Skill 创建器，输出规范 SKILL.md 🆓🅐 _By [@anthropics](https://github.com/anthropics)_
-* [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) — 官方 Playwright Skill，自动化检查 Listing 页面/账号状态 🆓🅐 _By [@anthropics](https://github.com/anthropics)_
 
 ---
 
