@@ -103,7 +103,7 @@ Amazon 跨境卖家的痛点：
 
 > 主图、详情图、A+ 模块图、短视频脚本、品牌 banner。
 
-_暂无合格收录，欢迎贡献。_
+* [ecom-details-image](https://github.com/liangdabiao/ecom-details-image) — 跨境电商视觉创作 Skill，25 个案例覆盖主图/场景图/详情图/平铺图，配 GPT-Image-2 API 提示词一键生图 💎🆕 _By [@liangdabiao](https://github.com/liangdabiao)_
 
 ### <a id="analytics-bi"></a>📊 数据分析与 BI
 
