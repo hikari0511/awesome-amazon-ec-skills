@@ -98,6 +98,7 @@ Amazon 跨境卖家的痛点：
 * [BSC-Amazon-Rufus-Cosmo](https://github.com/luotwo/BSC-Amazon-Rufus-Cosmo) — Amazon ASIN 的 COSMO + Rufus + Listing 审计与改写 🆓 _By [@luotwo](https://github.com/luotwo)_
 * [ecommerce-content-compliance-review](https://github.com/WaytoAIC/ecommerce-content-compliance-review) — 跨境电商内容合规审核 Skill 🆓 _By [@WaytoAIC](https://github.com/WaytoAIC)_
 * [zach-listing-health-checker](https://github.com/zach22-1999/amazon-skills/tree/main/skills/zach-listing-health-checker) — 真实消费者视角 9 维 Listing 健康度体检，零三方依赖 🆓 _By [@zach22-1999](https://github.com/zach22-1999)_
+* [amazon-error-compliance-skills](https://github.com/inchTodd/amazon-error-compliance-skills) — 促销价预检、优惠券与 Listing 报错排查，零依赖不收凭证 🆓🆕 _By [@inchTodd](https://github.com/inchTodd)_
 
 ### <a id="creative-visual"></a>📸 视觉与素材
 
