@@ -73,6 +73,7 @@ Amazon 跨境卖家的痛点：
 
 > 找品、判断市场容量、需求挖掘、关键词监测、供应链匹配。
 
+* [Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) — 53 个免费 Amazon 卖家技能，覆盖选品/关键词/竞品/Listing/PPC，无需 API key 🆓⭐ _By [@nexscope-ai](https://github.com/nexscope-ai)_
 * [Amazon-ABAkeyword](https://github.com/luotwo/Amazon-ABAkeyword) — 监测 Amazon ABA 爆品关键词并出飞书仪表盘，三级预警 🆓 _By [@luotwo](https://github.com/luotwo)_
 * [amazon-product-search](https://github.com/luotwo/amazon-product-search) — Sorftime MCP 数据 → 飞书多维表 + Dashboard 可视化 💎 _By [@luotwo](https://github.com/luotwo)_
 * [sorftime-cli](https://github.com/sorftime/sorftime-cli) — Sorftime 官方多平台数据 CLI，类目/产品/关键词查询 💎 _By [@sorftime](https://github.com/sorftime)_
